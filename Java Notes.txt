@@ -1,0 +1,47 @@
+Parameter is the definition as shown in the method declaration
+Argument will be the value that's passed to the method when we call it 
+
+
+Function - A method that returns a value 
+Procedure - A method that doesn't return a value, a void return type
+
+
+We work remotely
+remoteOk
+
+
+
+1. HTML
+2. CSS
+3. Javascript & Vanille Js
+4. Version Control (git)
+5. Responsive Design 
+6. Accessibility 
+7. Browser Developer Tools
+8. Cross Browser compatibility 
+9. SEO
+10. Web security 
+11. API
+12. Responsive images
+13. Analytics 
+14. Deployment and Hosting 
+15. Continuous learning 
+16. Collaboration 
+17. React
+
+
+
+
+4:12 Accessibility
+4:49 Performance Optimization
+5:26 Browser Developer Tools
+6:15 Crosse Browser 
+6:59 SEO
+7:54 Web Security
+8:38 API(Application Programming Interface)
+9:06 Responsive Images
+9:47 Analytics
+10:23 Deployment and Hosting
+10:57 Continuous learning
+11:22 Collaboration
+12:00 React
